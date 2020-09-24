@@ -1,0 +1,8 @@
+site_name: mb-demo
+site_description: mb-demo
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
